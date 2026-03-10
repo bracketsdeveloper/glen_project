@@ -107,7 +107,6 @@ function App() {
             <header className="header-flex">
                 <div>
                     <h1>Mini Scheduling System</h1>
-                    <p style={{ color: 'var(--text-muted)' }}>Empower your team with smart job assignments.</p>
                 </div>
                 <div style={{ display: 'flex', gap: '0.75rem', flexWrap: 'wrap', justifyContent: 'flex-end' }}>
                     <button className="btn btn-secondary" onClick={() => { setErrorMsg(''); setIsManageEmpModalOpen(true); }}>
