@@ -1,0 +1,32 @@
+[
+    {
+        "id": 101,
+        "name": "Morning Shift Construction",
+        "startTime": "08:00",
+        "endTime": "12:00"
+    },
+    {
+        "id": 102,
+        "name": "Afternoon Roadwork",
+        "startTime": "13:00",
+        "endTime": "17:00"
+    },
+    {
+        "id": 103,
+        "name": "Evening Maintenance",
+        "startTime": "18:00",
+        "endTime": "22:00"
+    },
+    {
+        "id": 104,
+        "name": "Midday Inspection",
+        "startTime": "11:00",
+        "endTime": "14:00"
+    },
+    {
+        "id": 105,
+        "name": "Full Day Supervisor Route",
+        "startTime": "08:00",
+        "endTime": "16:00"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "role": "TCP",
+        "availability": true
+    },
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "role": "LCT",
+        "availability": true
+    },
+    {
+        "id": 3,
+        "name": "Charlie Davis",
+        "role": "Supervisor",
+        "availability": false
+    },
+    {
+        "id": 4,
+        "name": "Diana Evans",
+        "role": "TCP",
+        "availability": true
+    },
+    {
+        "id": 5,
+        "name": "Evan Wright",
+        "role": "LCT",
+        "availability": false
+    },
+    {
+        "id": 6,
+        "name": "Frank Harris",
+        "role": "Supervisor",
+        "availability": true
+    },
+    {
+        "id": 1773164514726,
+        "name": "bharath",
+        "role": "TCP",
+        "availability": true
+    }
+]
